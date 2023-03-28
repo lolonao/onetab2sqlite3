@@ -1,6 +1,11 @@
 # onetab2sqlite3
 Script to import exported data from OneTab browser extension into SQLite3. I will add the ability to search by keywords or categories.
 
+## How to use
+
+> $ python3 onetab2sqlite.py --db ./onetab.db --file ./onetab-export.txt
+
+You can pass multiple --file arguments.
 
 ## Links
 
